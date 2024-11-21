@@ -1,0 +1,14 @@
+.cache/
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build outputs
+/bin/
+/obj/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db

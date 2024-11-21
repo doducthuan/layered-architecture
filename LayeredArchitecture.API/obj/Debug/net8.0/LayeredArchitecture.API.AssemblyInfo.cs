@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LayeredArchitecture.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+198a593af8b08ff80a94ffd4aa9d68fc2880e485")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd07f4ed92353e9346fbdecdf632570f311caed")]
 [assembly: System.Reflection.AssemblyProductAttribute("LayeredArchitecture.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LayeredArchitecture.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
