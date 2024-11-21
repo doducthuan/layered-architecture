@@ -15,3 +15,4 @@ C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\refint\LayeredArchitecture.Application.dll
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.pdb
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\ref\LayeredArchitecture.Application.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.sourcelink.json

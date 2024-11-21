@@ -15,3 +15,4 @@ C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.pdb
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.genruntimeconfig.cache
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\ref\LayeredArchitecture.Infrastructure.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.sourcelink.json

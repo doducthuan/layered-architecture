@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\utils\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF505E8A-B7AA-47EE-965E-23305C09620E}|LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.infrastructure\\utils\\layeredarchitecturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF505E8A-B7AA-47EE-965E-23305C09620E}|LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj|solutionrelative:layeredarchitecture.infrastructure\\utils\\layeredarchitecturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF505E8A-B7AA-47EE-965E-23305C09620E}|LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.infrastructure\\layeredarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF505E8A-B7AA-47EE-965E-23305C09620E}|LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj|solutionrelative:layeredarchitecture.infrastructure\\layeredarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B49F41FB-10E4-4781-A80E-FD3720993C5A}|LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +63,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Program.cs",
+              "RelativeDocumentMoniker": "LayeredArchitecture.API\\Program.cs",
+              "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Program.cs",
+              "RelativeToolTip": "LayeredArchitecture.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:43:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LayeredArchitecture.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
+              "RelativeToolTip": "LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T08:29:06.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\appsettings.json",
               "RelativeDocumentMoniker": "LayeredArchitecture.API\\appsettings.json",
@@ -62,8 +94,7 @@
               "RelativeToolTip": "LayeredArchitecture.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T08:06:37.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T08:06:37.273Z"
             },
             {
               "$type": "Document",
@@ -73,7 +104,7 @@
               "RelativeDocumentMoniker": "LayeredArchitecture.API\\Utils\\ConfigureServices.cs",
               "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Utils\\ConfigureServices.cs",
               "RelativeToolTip": "LayeredArchitecture.API\\Utils\\ConfigureServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T08:04:10.155Z",
               "EditorCaption": ""
@@ -86,14 +117,13 @@
               "RelativeDocumentMoniker": "LayeredArchitecture.Infrastructure\\Utils\\LayeredArchitectureContext.cs",
               "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\Utils\\LayeredArchitectureContext.cs",
               "RelativeToolTip": "LayeredArchitecture.Infrastructure\\Utils\\LayeredArchitectureContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T08:00:29.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T08:00:29.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\Models\\Account.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Domain\\Models\\Account.cs",
@@ -101,8 +131,7 @@
               "RelativeToolTip": "LayeredArchitecture.Domain\\Models\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:58:50.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T07:58:50.42Z"
             }
           ]
         }
