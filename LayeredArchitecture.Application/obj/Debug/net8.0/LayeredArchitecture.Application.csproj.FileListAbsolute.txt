@@ -1,0 +1,17 @@
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\bin\Debug\net8.0\LayeredArchitecture.Application.deps.json
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\bin\Debug\net8.0\LayeredArchitecture.Application.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\bin\Debug\net8.0\LayeredArchitecture.Application.pdb
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\bin\Debug\net8.0\LayeredArchitecture.Domain.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\bin\Debug\net8.0\LayeredArchitecture.Infrastructure.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\bin\Debug\net8.0\LayeredArchitecture.Infrastructure.pdb
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\bin\Debug\net8.0\LayeredArchitecture.Domain.pdb
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.AssemblyInfo.cs
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredA.EE9CE6BF.Up2Date
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\refint\LayeredArchitecture.Application.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\LayeredArchitecture.Application.pdb
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Application\obj\Debug\net8.0\ref\LayeredArchitecture.Application.dll

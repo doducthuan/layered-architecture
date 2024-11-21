@@ -1,0 +1,11 @@
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\bin\Debug\net8.0\LayeredArchitecture.Domain.deps.json
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\bin\Debug\net8.0\LayeredArchitecture.Domain.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\bin\Debug\net8.0\LayeredArchitecture.Domain.pdb
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.AssemblyInfo.cs
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\refint\LayeredArchitecture.Domain.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.pdb
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\ref\LayeredArchitecture.Domain.dll
