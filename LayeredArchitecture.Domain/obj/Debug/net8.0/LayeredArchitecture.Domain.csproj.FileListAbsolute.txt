@@ -10,3 +10,4 @@ C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debu
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.pdb
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\ref\LayeredArchitecture.Domain.dll
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.sourcelink.json
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Domain\obj\Debug\net8.0\LayeredArchitecture.Domain.csproj.AssemblyReference.cache

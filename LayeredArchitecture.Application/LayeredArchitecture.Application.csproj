@@ -7,11 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTO\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\LayeredArchitecture.Common\LayeredArchitecture.Common.csproj" />
     <ProjectReference Include="..\LayeredArchitecture.Infrastructure\LayeredArchitecture.Infrastructure.csproj" />
   </ItemGroup>
 

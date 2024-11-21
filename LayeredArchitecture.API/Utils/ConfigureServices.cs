@@ -1,6 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using LayeredArchitecture.Infrastructure.Utils;
-using Microsoft.Extensions.Options;
+using LayeredArchitecture.Application.Services.IServices;
+using LayeredArchitecture.Application.Services;
+using LayeredArchitecture.Domain.IReponsitories;
+using LayeredArchitecture.Infrastructure.Reponsitories;
 namespace LayeredArchitecture.API.Utils
 {
     public static class ConfigureServices
@@ -9,6 +12,14 @@ namespace LayeredArchitecture.API.Utils
         {
             services.AddDbContext<LayeredArchitectureContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"),
                 builder => builder.MigrationsAssembly("LayeredArchitecture.Infrastructure")));
+
+            #region scope service
+            services.AddScoped<IAccountService, AccountService>();
+            #endregion
+
+            #region scope repository
+            services.AddScoped<IAccountRepository, AccountRepository>();
+            #endregion
             return services;
         }
     }

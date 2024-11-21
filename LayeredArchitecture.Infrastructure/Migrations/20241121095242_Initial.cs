@@ -20,7 +20,10 @@ namespace LayeredArchitecture.Infrastructure.Migrations
                     user_name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     password = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     created_at = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    active = table.Column<bool>(type: "bit", nullable: false)
+                    created_user = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    updated_at = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    updated_user = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    delete_flg = table.Column<bool>(type: "bit", nullable: true)
                 },
                 constraints: table =>
                 {

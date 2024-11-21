@@ -10,3 +10,4 @@ C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debu
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\refint\LayeredArchitecture.Common.dll
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.pdb
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\ref\LayeredArchitecture.Common.dll
+C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.csproj.AssemblyReference.cache

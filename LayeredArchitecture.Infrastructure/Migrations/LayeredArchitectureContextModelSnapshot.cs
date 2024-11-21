@@ -30,14 +30,24 @@ namespace LayeredArchitecture.Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
 
-                    b.Property<bool>("active")
-                        .HasColumnType("bit");
-
                     b.Property<DateTime>("created_at")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("created_user")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool?>("delete_flg")
+                        .HasColumnType("bit");
+
                     b.Property<string>("password")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("updated_at")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("updated_user")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("user_name")
