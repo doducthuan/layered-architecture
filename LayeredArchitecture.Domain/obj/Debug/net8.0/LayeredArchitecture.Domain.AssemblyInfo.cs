@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LayeredArchitecture.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd07f4ed92353e9346fbdecdf632570f311caed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f17bb53c5524f3c058fd92167b9d22faf445657a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LayeredArchitecture.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LayeredArchitecture.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
