@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LayeredArchitecture.Infrastructure.Migrations
 {
     [DbContext(typeof(LayeredArchitectureContext))]
-    [Migration("20241121171133_Initial")]
-    partial class Initial
+    [Migration("20241121184715_SeedData2")]
+    partial class SeedData2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -60,6 +60,17 @@ namespace LayeredArchitecture.Infrastructure.Migrations
                     b.HasKey("id");
 
                     b.ToTable("Accounts");
+
+                    b.HasData(
+                        new
+                        {
+                            id = 1,
+                            created_at = new DateTime(2024, 11, 22, 1, 47, 15, 382, DateTimeKind.Local).AddTicks(9662),
+                            created_user = "1",
+                            delete_flg = false,
+                            password = "password",
+                            user_name = "test1"
+                        });
                 });
 #pragma warning restore 612, 618
         }

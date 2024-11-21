@@ -1,4 +1,5 @@
 using LayeredArchitecture.API.Utils;
+using LayeredArchitecture.Infrastructure.Utils;
 
 
 var builder = WebApplication.CreateBuilder(args);

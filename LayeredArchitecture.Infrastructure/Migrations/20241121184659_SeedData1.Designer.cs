@@ -4,6 +4,7 @@ using LayeredArchitecture.Infrastructure.Utils;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LayeredArchitecture.Infrastructure.Migrations
 {
     [DbContext(typeof(LayeredArchitectureContext))]
-    partial class LayeredArchitectureContextModelSnapshot : ModelSnapshot
+    [Migration("20241121184659_SeedData1")]
+    partial class SeedData1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -62,7 +65,7 @@ namespace LayeredArchitecture.Infrastructure.Migrations
                         new
                         {
                             id = 1,
-                            created_at = new DateTime(2024, 11, 22, 1, 47, 15, 382, DateTimeKind.Local).AddTicks(9662),
+                            created_at = new DateTime(2024, 11, 22, 1, 46, 59, 140, DateTimeKind.Local).AddTicks(8528),
                             created_user = "1",
                             delete_flg = false,
                             password = "password",

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace LayeredArchitecture.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class SeedData : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -29,6 +29,11 @@ namespace LayeredArchitecture.Infrastructure.Migrations
                 {
                     table.PrimaryKey("PK_Accounts", x => x.id);
                 });
+
+            migrationBuilder.InsertData(
+                table: "Accounts",
+                columns: new[] { "id", "created_at", "created_user", "delete_flg", "password", "updated_at", "updated_user", "user_name" },
+                values: new object[] { 1, new DateTime(2024, 11, 22, 1, 43, 38, 752, DateTimeKind.Local).AddTicks(9375), "1", false, "password", null, null, "test1" });
         }
 
         /// <inheritdoc />
