@@ -4971,24 +4971,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hubertdo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\2NF-PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hubertdo\\Learn\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
       "projectName": "LayeredArchitecture.Infrastructure",
-      "projectPath": "C:\\Users\\hubertdo\\Learn\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\hubertdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hubertdo\\Learn\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\LayeredArchitecture.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\2NF-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hubertdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\2NF-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5003,8 +4998,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\hubertdo\\Learn\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj": {
-              "projectPath": "C:\\Users\\hubertdo\\Learn\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj"
+            "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj": {
+              "projectPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj"
             }
           }
         }
@@ -5065,7 +5060,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

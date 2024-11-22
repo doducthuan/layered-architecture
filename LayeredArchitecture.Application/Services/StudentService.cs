@@ -7,10 +7,10 @@ using LayeredArchitecture.Application.DTO;
 using LayeredArchitecture.Domain.Models;
 namespace LayeredArchitecture.Application.Services
 {
-    public class AccountService : IAccountService
+    public class StudentService : IStudentService
     {
-        private IAccountRepository _repository;
-        public AccountService(IAccountRepository repository)
+        private IStudentRepository _repository;
+        public StudentService(IStudentRepository repository)
         {
             _repository = repository;
         }
@@ -18,10 +18,10 @@ namespace LayeredArchitecture.Application.Services
         {
             var data = await _repository
                 .FindByCondition(x => x.delete_flg != true)
-                .Select(x => new AccountForm
+                .Select(x => new StudentForm
                 {
                     id = x.id,
-                    user_name = x.user_name,
+                    first_name = x.first_name,
                     created_at = x.created_at,
                     updated_at = x.updated_at
                 })
@@ -34,10 +34,10 @@ namespace LayeredArchitecture.Application.Services
         {
             var data = await _repository
                 .FindByCondition(x => x.id == id && x.delete_flg != true)
-                .Select(x => new AccountForm
+                .Select(x => new StudentForm
                 {
                     id = x.id,
-                    user_name = x.user_name,
+                    first_name = x.first_name,
                     created_at = x.created_at,
                     updated_at = x.updated_at
                 })
@@ -46,9 +46,9 @@ namespace LayeredArchitecture.Application.Services
                 ApiResponse.Response(DefineResponse.EnumCodes.R_CMN_200_01, data: data):
                 ApiResponse.Response(DefineResponse.EnumCodes.R_CMN_404_01);
         }
-        public async Task<ApiResponse> CreateOrUpdate(AccountDTO dto, bool isCreated = true)
+        public async Task<ApiResponse> CreateOrUpdate(StudentDTO dto, bool isCreated = true)
         {
-            var model = isCreated ? new Account() : _repository.GetById(dto.id) ?? new Account();
+            var model = isCreated ? new Student() : _repository.GetById(dto.id) ?? new Student();
             if(!isCreated && model.id <= 0)
             {
                 return ApiResponse.Response(DefineResponse.EnumCodes.R_CMN_400_01);
@@ -60,10 +60,10 @@ namespace LayeredArchitecture.Application.Services
             }
             return ApiResponse.Response(DefineResponse.EnumCodes.R_CMN_200_01, data: model);
         }
-        private Account SetValueModelByDto(AccountDTO dto, ref Account model)
+        private Student SetValueModelByDto(StudentDTO dto, ref Student model)
         {
-            model.user_name = dto.user_name;
-            model.password = dto.password;
+            model.first_name = dto.first_name;
+            model.last_name = dto.last_name;
             return model;
         }
     }

@@ -2,8 +2,6 @@ C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\bin\Debu
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\bin\Debug\net8.0\LayeredArchitecture.Common.dll
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\bin\Debug\net8.0\LayeredArchitecture.Common.pdb
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.AssemblyInfoInputs.cache
-C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.AssemblyInfo.cs
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.csproj.CoreCompileInputs.cache
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.sourcelink.json
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Common\obj\Debug\net8.0\LayeredArchitecture.Common.dll

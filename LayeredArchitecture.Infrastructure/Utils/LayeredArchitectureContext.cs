@@ -10,17 +10,18 @@ namespace LayeredArchitecture.Infrastructure.Utils
         public LayeredArchitectureContext(DbContextOptions<LayeredArchitectureContext> options) : base(options)
         {
         }      
-        public virtual DbSet<Account> Accounts { get; set; }
+        public virtual DbSet<Student> Students { get; set; }
 
         #region Seed Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Account>().HasData(
-                new Account
+            modelBuilder.Entity<Student>().HasData(
+                new Student
                 {
                     id = 1,
-                    user_name = "test1",
-                    password = "password",
+                    first_name = "hubert",
+                    last_name = "do",
+                    birth_day = DateTime.Now,
                     created_at = DateTime.Now,
                     created_user = "1",
                     delete_flg = false,

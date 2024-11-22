@@ -6,8 +6,6 @@ C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\bin\Debug\net8.0\LayeredArchitecture.Domain.pdb
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.AssemblyInfo.cs
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredA.14BAE96D.Up2Date
 C:\Users\2NF-PC\HubertDo\LayeredArchitecture\LayeredArchitecture.Infrastructure\obj\Debug\net8.0\LayeredArchitecture.Infrastructure.dll

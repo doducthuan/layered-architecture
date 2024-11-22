@@ -8,16 +8,17 @@ namespace LayeredArchitecture.API.Controllers
 {
     [ApiController]
     [Route("api/account")]
-    public class AccountController : BaseController
+    public class StudentController : BaseController
     {
-        private readonly IAccountService _service;
+        private readonly IStudentService _service;
         private readonly IHttpContextAccessor _httpContextAccessor;
-        private readonly ILogger<AccountController> _logger;
+        private readonly ILogger<StudentController> _logger;
         private readonly IMemoryCache _memoryCache;
-        public AccountController(
-            IAccountService service,
+        private readonly string cacheKey = "cacheAccount";
+        public StudentController(
+            IStudentService service,
             IHttpContextAccessor httpContextAccessor,
-            ILogger<AccountController> logger,
+            ILogger<StudentController> logger,
             IMemoryCache memoryCache)
         {
             _service = service;
@@ -30,7 +31,6 @@ namespace LayeredArchitecture.API.Controllers
         public async Task<IActionResult> GetList()
         {
             var stopWatch = Stopwatch.StartNew();
-            string cacheKey = "cachList";
             if (!_memoryCache.TryGetValue(cacheKey, out ApiResponse? data))
             {
                 data = await _service.GetList();
@@ -51,9 +51,13 @@ namespace LayeredArchitecture.API.Controllers
             return BaseResult(data);
         }
         [HttpPost]
-        public async Task<IActionResult> CreateOrUpdate(AccountDTO dto)
-        {           
+        public async Task<IActionResult> CreateOrUpdate(StudentDTO dto)
+        {
             var result = await _service.CreateOrUpdate(dto, dto.id <= 0);
+            if(result.code == DefineResponse.EnumCodes.R_CMN_200_01.ToString().Split('_')[2])
+            {
+                _memoryCache.Remove(cacheKey);
+            }
             return BaseResult(result);
         }
     }

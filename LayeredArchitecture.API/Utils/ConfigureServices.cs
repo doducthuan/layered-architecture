@@ -17,11 +17,11 @@ namespace LayeredArchitecture.API.Utils
 
             services.AddMemoryCache();
             #region scope service
-            services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<IStudentService, StudentService>();
             #endregion
 
             #region scope repository
-            services.AddScoped<IAccountRepository, AccountRepository>();
+            services.AddScoped<IStudentRepository, StudentRepository>();
             #endregion
             return services;
         }

@@ -2,7 +2,7 @@
 
 namespace LayeredArchitecture.Domain.IReponsitories
 {
-    public interface IAccountRepository : IGenericRepository<Account>
+    public interface IStudentRepository : IGenericRepository<Student>
     {
     }
 }

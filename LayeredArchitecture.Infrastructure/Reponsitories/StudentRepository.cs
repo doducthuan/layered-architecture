@@ -6,11 +6,11 @@ using LayeredArchitecture.Infrastructure.Utils;
 
 namespace LayeredArchitecture.Infrastructure.Reponsitories
 {
-    public class AccountRepository : GenericRepository<Account>, IAccountRepository
+    public class StudentRepository : GenericRepository<Student>, IStudentRepository
     {
         private IHttpContextAccessor _httpContextAccessor;
         private LayeredArchitectureContext _context;
-        public AccountRepository(LayeredArchitectureContext context, IHttpContextAccessor httpContextAccessor) : base(context, httpContextAccessor)
+        public StudentRepository(LayeredArchitectureContext context, IHttpContextAccessor httpContextAccessor) : base(context, httpContextAccessor)
         {
             _httpContextAccessor = httpContextAccessor;
             _context = context;
