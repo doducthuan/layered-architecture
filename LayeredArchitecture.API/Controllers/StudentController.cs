@@ -33,6 +33,11 @@ namespace LayeredArchitecture.API.Controllers
             var stopWatch = Stopwatch.StartNew();
             if (!_memoryCache.TryGetValue(cacheKey, out ApiResponse? data))
             {
+                //var cacheOptions = new MemoryCacheEntryOptions
+                //{
+                //    AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(10),
+                //    SlidingExpiration = TimeSpan.FromMinutes(5)
+                //};
                 data = await _service.GetList();
                 _memoryCache.Set(cacheKey, data, TimeSpan.FromMinutes(10));
             }

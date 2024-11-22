@@ -55,7 +55,7 @@ namespace LayeredArchitecture.Application.Services
             }
             SetValueModelByDto(dto, ref model);
             if((isCreated && (await _repository.CreateAsync(model)) <= 0) ||
-                (!isCreated && (await _repository.UpdateAsync(model)))){
+                (!isCreated && !(await _repository.UpdateAsync(model)))){
                 return ApiResponse.Response(DefineResponse.EnumCodes.R_CMN_400_01);
             }
             return ApiResponse.Response(DefineResponse.EnumCodes.R_CMN_200_01, data: model);
@@ -64,6 +64,8 @@ namespace LayeredArchitecture.Application.Services
         {
             model.first_name = dto.first_name;
             model.last_name = dto.last_name;
+            model.address = dto.address;
+            model.birth_day = dto.birth_day;
             return model;
         }
     }
