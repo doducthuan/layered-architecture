@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\utils\\handleerrormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\utils\\handleerrormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\utils\\customauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\utils\\customauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\utils\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4777226-259C-44F7-86DF-A85F0987F35E}|LayeredArchitecture.API\\LayeredArchitecture.API.csproj|solutionrelative:layeredarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B49F41FB-10E4-4781-A80E-FD3720993C5A}|LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj|c:\\users\\2nf-pc\\hubertdo\\layeredarchitecture\\layeredarchitecture.domain\\models\\basecommonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B49F41FB-10E4-4781-A80E-FD3720993C5A}|LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj|solutionrelative:layeredarchitecture.domain\\models\\basecommonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,6 +99,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CustomAuthorizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Utils\\CustomAuthorizationMiddleware.cs",
+              "RelativeDocumentMoniker": "LayeredArchitecture.API\\Utils\\CustomAuthorizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Utils\\CustomAuthorizationMiddleware.cs",
+              "RelativeToolTip": "LayeredArchitecture.API\\Utils\\CustomAuthorizationMiddleware.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:24:15.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandleErrorMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Utils\\HandleErrorMiddleware.cs",
+              "RelativeDocumentMoniker": "LayeredArchitecture.API\\Utils\\HandleErrorMiddleware.cs",
+              "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Utils\\HandleErrorMiddleware.cs",
+              "RelativeToolTip": "LayeredArchitecture.API\\Utils\\HandleErrorMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:11:10.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\appsettings.json",
               "RelativeDocumentMoniker": "LayeredArchitecture.API\\appsettings.json",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Application\\Services\\IServices\\IStudentService.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Application\\Services\\IServices\\IStudentService.cs",
@@ -111,11 +145,12 @@
               "RelativeToolTip": "LayeredArchitecture.Application\\Services\\IServices\\IStudentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:15:08.7Z"
+              "WhenOpened": "2024-11-22T03:15:08.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\IReponsitories\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Domain\\IReponsitories\\IStudentRepository.cs",
@@ -123,11 +158,12 @@
               "RelativeToolTip": "LayeredArchitecture.Domain\\IReponsitories\\IStudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:14:09.882Z"
+              "WhenOpened": "2024-11-22T03:14:09.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Application\\DTO\\StudentDTO.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Application\\DTO\\StudentDTO.cs",
@@ -135,11 +171,12 @@
               "RelativeToolTip": "LayeredArchitecture.Application\\DTO\\StudentDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:06:05.618Z"
+              "WhenOpened": "2024-11-22T03:06:05.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "StudentForm.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Application\\Form\\StudentForm.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Application\\Form\\StudentForm.cs",
@@ -147,11 +184,12 @@
               "RelativeToolTip": "LayeredArchitecture.Application\\Form\\StudentForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:04:15.957Z"
+              "WhenOpened": "2024-11-22T03:04:15.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Application\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Application\\Services\\StudentService.cs",
@@ -164,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\Reponsitories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Infrastructure\\Reponsitories\\StudentRepository.cs",
@@ -172,11 +210,12 @@
               "RelativeToolTip": "LayeredArchitecture.Infrastructure\\Reponsitories\\StudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:03:52.259Z"
+              "WhenOpened": "2024-11-22T03:03:52.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "LayeredArchitectureContext.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Infrastructure\\Utils\\LayeredArchitectureContext.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Infrastructure\\Utils\\LayeredArchitectureContext.cs",
@@ -184,11 +223,12 @@
               "RelativeToolTip": "LayeredArchitecture.Infrastructure\\Utils\\LayeredArchitectureContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:02:34.033Z"
+              "WhenOpened": "2024-11-22T03:02:34.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\Models\\Student.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Domain\\Models\\Student.cs",
@@ -196,11 +236,12 @@
               "RelativeToolTip": "LayeredArchitecture.Domain\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:59:22.657Z"
+              "WhenOpened": "2024-11-22T02:59:22.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.API\\Controllers\\StudentController.cs",
@@ -213,31 +254,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Program.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.API\\Program.cs",
               "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Program.cs",
               "RelativeToolTip": "LayeredArchitecture.API\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:43:47.304Z"
+              "WhenOpened": "2024-11-21T17:43:47.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Utils\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.API\\Utils\\ConfigureServices.cs",
               "ToolTip": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.API\\Utils\\ConfigureServices.cs",
               "RelativeToolTip": "LayeredArchitecture.API\\Utils\\ConfigureServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:44:30.58Z"
+              "WhenOpened": "2024-11-21T17:44:30.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BaseCommonModel.cs",
               "DocumentMoniker": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\Models\\BaseCommonModel.cs",
               "RelativeDocumentMoniker": "LayeredArchitecture.Domain\\Models\\BaseCommonModel.cs",
@@ -245,7 +288,8 @@
               "RelativeToolTip": "LayeredArchitecture.Domain\\Models\\BaseCommonModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:26:39.782Z"
+              "WhenOpened": "2024-11-21T18:26:39.782Z",
+              "EditorCaption": ""
             }
           ]
         }

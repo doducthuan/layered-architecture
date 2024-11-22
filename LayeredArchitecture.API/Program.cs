@@ -1,6 +1,4 @@
 using LayeredArchitecture.API.Utils;
-using LayeredArchitecture.Infrastructure.Utils;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,7 +19,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseMiddleware<HandleErrorMiddleware>();
+if (!app.Environment.IsDevelopment())
+{
+    app.UseMiddleware<CustomAuthorizationMiddleware>();
+}
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

@@ -25,6 +25,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\LayeredArchitecture.Application\LayeredArchitecture.Application.csproj" />
+		<ProjectReference Include="..\LayeredArchitecture.Common\LayeredArchitecture.Common.csproj" />
 		<ProjectReference Include="..\LayeredArchitecture.Infrastructure\LayeredArchitecture.Infrastructure.csproj" />
 	</ItemGroup>
 
