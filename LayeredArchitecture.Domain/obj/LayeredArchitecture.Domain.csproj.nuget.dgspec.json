@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj": {}
+    "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj": {
+    "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj",
         "projectName": "LayeredArchitecture.Domain",
-        "projectPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj",
+        "projectPath": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\2NF-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\obj\\",
+        "outputPath": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2NF-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

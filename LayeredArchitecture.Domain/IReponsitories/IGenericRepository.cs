@@ -73,6 +73,5 @@ namespace LayeredArchitecture.Domain.IReponsitories
         #endregion
 
         string GetLoginUserId();
-        int GetCurrentOfficeId();
     }
 }

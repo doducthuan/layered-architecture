@@ -50,8 +50,6 @@ namespace LayeredArchitecture.API.Utils
 
             newResponseBody.Seek(0, SeekOrigin.Begin);
             await newResponseBody.CopyToAsync(originalResponseBody);
-
-            //_logger.LogInformation("ResponseBody: " + responseBodyText);
         }
     }
 }

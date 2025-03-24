@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4ctIyIqEsY=",
+  "dgSpecHash": "NsfN50PQBD4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Domain\\LayeredArchitecture.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2NF-PC\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\2NF-PC\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",

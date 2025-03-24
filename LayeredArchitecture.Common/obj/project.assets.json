@@ -3272,11 +3272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Common\\LayeredArchitecture.Common.csproj",
+      "projectUniqueName": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Common\\LayeredArchitecture.Common.csproj",
       "projectName": "LayeredArchitecture.Common",
-      "projectPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Common\\LayeredArchitecture.Common.csproj",
+      "projectPath": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Common\\LayeredArchitecture.Common.csproj",
       "packagesPath": "C:\\Users\\2NF-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Common\\obj\\",
+      "outputPath": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2NF-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3360,7 +3360,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

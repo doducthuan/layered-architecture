@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkQlDrcd1I4=",
+  "dgSpecHash": "tUFPWLg/ufs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2NF-PC\\HubertDo\\LayeredArchitecture\\LayeredArchitecture.Common\\LayeredArchitecture.Common.csproj",
+  "projectFilePath": "C:\\Users\\2NF-PC\\HubertDo\\Projects\\layered-architecture\\LayeredArchitecture.Common\\LayeredArchitecture.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2NF-PC\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\8.0.2\\aspnetcore.healthchecks.sqlserver.8.0.2.nupkg.sha512",
     "C:\\Users\\2NF-PC\\.nuget\\packages\\aspnetcore.healthchecks.uris\\8.0.1\\aspnetcore.healthchecks.uris.8.0.1.nupkg.sha512",
